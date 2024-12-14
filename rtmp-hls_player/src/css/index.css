@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Bindlestiff NF W01 Regular";
+    src: url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.eot");
+    src: url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/5c9890d4de258f68a34f53291373ee18.svg#Bindlestiff NF W01 Regular")format("svg");
+}
+
+.centro{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 10vh; 
+background-color: #2e2d2d;
+}
+.img
+{
+    height: 10vh;
+}
+.font
+{
+    font-size: 5vh;
+    color: white;
+    text-shadow: 4px 4px black;
+    font-family: "Bindlestiff NF W01 Regular"; 
+}
+.ul-font
+{
+    font-family: "Bindlestiff NF W01 Regular"; 
+    font-size: 2vh;
+    text-shadow: 4px 4px black;
+    color: white;
+}
